@@ -1,0 +1,2 @@
+# Lolcode-spongebob-meme-text
+O HAI ITZ WEIRD TEXT GENERATION USING LOLCODE KTHXBYE
